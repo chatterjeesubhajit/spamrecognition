@@ -18,4 +18,4 @@ Details of each script are all given in the report and in the scripts as well. B
 4. 4.Ensembles_Dtree.py : This is the script we created during Programming Assignments 1 and 2 ( additionally
 			  used multithreading to optimize the scripts)
 
-5. 5.GNB-own implementation.py : This is the script to implement Gaussian Naive Bayes Classifi
+5. 5.GNB-own implementation.py : This is the script to implement Gaussian Naive Bayes Classifier
