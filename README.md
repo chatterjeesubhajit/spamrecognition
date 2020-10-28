@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=pmxJSzTu76Q&feature=youtu.be
 
 ## Details of each script are all given in the report and in the scripts as well. Below is a brief of each script:
-	- 1.**Multithread_transcription.py** : Script to process audio file, upload to cloud platform and transcribe
+	- `1.Multithread_transcription.py` : Script to process audio file, upload to cloud platform and transcribe
 				    to text
 	- 2.**Text_Preprocessing.py** : Script to preprocess the text data , vectorize the same, and perform cosine
 			     similarity check
