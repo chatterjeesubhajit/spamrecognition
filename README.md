@@ -4,6 +4,8 @@
 ## Please check the video link of the project here:
 https://www.youtube.com/watch?v=pmxJSzTu76Q&feature=youtu.be
 
+## [Project Report](https://github.com/chatterjeesubhajit/spamrecognition/blob/master/Spam%20Call%20Classification%20-%20Project%20Report.pdf) 
+
 ## Details of each script are all given in the report and in the scripts as well. Below is a brief of each script:
 - 1.**Multithread_transcription.py** : Script to process audio file, upload to cloud platform and transcribe  
 			    to text
